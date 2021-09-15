@@ -1,0 +1,20 @@
+1. What Licensing Agreement did you choose and why?
+Creative Commons Attribution ShareAlike because I'd like my dataset to be free to use as long as they make the derivative work free. MIT for my code for the same reasons
+
+2. What are data archiving options are recommended by the Montana State University Library?
+DRYAD, zenodo, ICPSR, PLOS, SCIENTIFIC DATA, National Institutes of Health
+
+3. How would using GitHub help make your data/code align with FAIR Protocols?
+Gitbhub can be accessed by anyone with an account. This promotes Findability, Accessibility, Interoperability, and Reuse of digital assets (FAIR).
+
+4. What are the advantages of making your data/code more widely accessible?
+So science doesn't become a bunch of old dragons hoarding their gold in a cave. 
+
+5. What are the disadvantages of making your data/code more widely accessible?
+Someone could manipulate the data without integrity
+
+6. What data/code from your grad project would you envision publishing on GitHub?
+All of the data that I collected
+
+7. What data/code would you not publish? Why?
+The data that I've taken from FWP because I don't know what their deal is
